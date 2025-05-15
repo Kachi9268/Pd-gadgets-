@@ -1,41 +1,73 @@
-# PD Gadget
+# Welcome to your Lovable project
 
-Welcome to the official website repository of **PD Gadget** – your trusted store for high-quality mobile phones, accessories, electronics, gadgets, and more!
+## Project info
 
-## Overview
+**URL**: https://lovable.dev/projects/6cce2c70-458e-491a-80d5-d84b2859295e
 
-PD Gadget is a tech and gadget brand that focuses on providing reliable products at competitive prices. The website was designed to showcase trending products, build trust with customers, and create an easy pathway for direct ordering via WhatsApp.
+## How can I edit this code?
 
-## Features
+There are several ways of editing your application.
 
-- **Clean and modern user interface**
-- **Featured products** section with over 20 trending gadgets
-- **Order Now via WhatsApp** – seamless ordering experience
-- **Responsive design** for all screen sizes
-- **Preloader animation** for a polished loading experience
-- **Scroll animation effects** for enhanced user engagement
-- **FAQs section** to address common customer concerns
-- **Instagram link** for easy access to social updates
+**Use Lovable**
 
-## Tech Stack
+Simply visit the [Lovable Project](https://lovable.dev/projects/6cce2c70-458e-491a-80d5-d84b2859295e) and start prompting.
 
-- **HTML/CSS/JavaScript**
-- **Loveable AI** (for website generation and layout)
-- **GitHub Pages** (for hosting)
+Changes made via Lovable will be committed automatically to this repo.
 
-## Live Demo
+**Use your preferred IDE**
 
-## How to Order
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-1. Browse through products
-2. Click **"View Details"** for full info
-3. Click **"Order Now"** to message directly on WhatsApp
-4. A custom message will be pre-filled with product details
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-## Contact
+Follow these steps:
 
-- Instagram: [@pdgadget](https://instagram.com/pdgadget) *(Replace with actual handle)*
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-## License
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-This project is for demonstration and business marketing purposes only. All rights reserved to PD Gadget
+# Step 3: Install the necessary dependencies.
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/6cce2c70-458e-491a-80d5-d84b2859295e) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
